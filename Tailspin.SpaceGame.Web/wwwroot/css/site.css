@@ -133,7 +133,7 @@ section {
 
 .profile .avatar {
   border-radius: 999px;
-  background-color: #ccc;
+  background-color: rgb(244, 4, 4);
   background-size: cover;
   width: 200px;
   height: 200px;
